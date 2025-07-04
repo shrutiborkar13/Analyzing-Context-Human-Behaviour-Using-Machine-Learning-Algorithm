@@ -1,0 +1,357 @@
+label:LYING_DOWN
+Features used: ['PS', 'Aud', 'AP', 'Magnet']
+(377346, 93) (377346,)
+(363136, 93) (14210, 93) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999882
+Random Forest: accuracy on test data 0.945250
+*************************************************************************************************************************
+label:SITTING
+Features used: ['PS', 'Aud', 'AP', 'WAcc']
+(377346, 108) (377346,)
+(363136, 108) (14210, 108) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999725
+Random Forest: accuracy on test data 0.944335
+*************************************************************************************************************************
+label:FIX_walking
+Features used: ['Gyro', 'Acc', 'Magnet']
+(377346, 83) (377346,)
+(363136, 83) (14210, 83) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999992
+Random Forest: accuracy on test data 0.944968
+*************************************************************************************************************************
+label:FIX_running
+Features used: ['Magnet', 'Loc', 'Aud', 'AP']
+(377346, 76) (377346,)
+(363136, 76) (14210, 76) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999760
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:BICYCLING
+Features used: ['Magnet', 'Loc', 'Acc']
+(377346, 74) (377346,)
+(363136, 74) (14210, 74) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:SLEEPING
+Features used: ['PS', 'Magnet', 'Acc']
+(377346, 91) (377346,)
+(363136, 91) (14210, 91) (363136,) (14210,)
+Random Forest: accuracy on training data 1.000000
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:LAB_WORK
+Features used: ['Magnet', 'Loc', 'Aud', 'AP']
+(377346, 76) (377346,)
+(363136, 76) (14210, 76) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999766
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:IN_CLASS
+Features used: ['Magnet', 'Acc', 'Loc']
+(377346, 74) (377346,)
+(363136, 74) (14210, 74) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:IN_A_MEETING
+Features used: ['Magnet', 'LF', 'Aud', 'AP']
+(377346, 67) (377346,)
+(363136, 67) (14210, 67) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999917
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:LOC_main_workplace
+Features used: ['Magnet', 'Loc', 'LF']
+(377346, 56) (377346,)
+(363136, 56) (14210, 56) (363136,) (14210,)
+Random Forest: accuracy on training data 0.997511
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:OR_indoors
+Features used: ['Acc', 'Magnet', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999992
+Random Forest: accuracy on test data 0.945250
+*************************************************************************************************************************
+label:OR_outside
+Features used: ['Magnet', 'Acc', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999989
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:IN_A_CAR
+Features used: ['Magnet', 'Acc', 'Loc']
+(377346, 74) (377346,)
+(363136, 74) (14210, 74) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:ON_A_BUS
+Features used: ['Magnet', 'Aud', 'AP', 'Loc']
+(377346, 76) (377346,)
+(363136, 76) (14210, 76) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999763
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:DRIVE_-_I_M_THE_DRIVER
+Features used: ['Magnet', 'Loc', 'Acc']
+(377346, 74) (377346,)
+(363136, 74) (14210, 74) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:DRIVE_-_I_M_A_PASSENGER
+Features used: ['Magnet', 'Acc', 'WAcc']
+(377346, 103) (377346,)
+(363136, 103) (14210, 103) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999992
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:LOC_home
+Features used: ['Loc', 'Aud', 'AP', 'Magnet']
+(377346, 76) (377346,)
+(363136, 76) (14210, 76) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999760
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+ 'label:FIX_restaurant'
+Features used: ['Magnet', 'LF', 'Aud', 'AP']
+(377346, 67) (377346,)
+(363136, 67) (14210, 67) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999906
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+ 'label:PHONE_IN_POCKET'
+Features used: ['Acc', 'Magnet', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+ 'label:OR_exercise'
+Features used: ['Magnet', 'Acc', 'WAcc']
+(377346, 103) (377346,)
+(363136, 103) (14210, 103) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+ 'label:COOKING'
+Features used: ['Magnet', 'Acc', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999989
+Random Forest: accuracy on test data 0.945250
+*************************************************************************************************************************
+ 'label:SHOPPING'
+Features used: ['Magnet', 'Acc', 'Gyro']
+(377346, 83) (377346,)
+(363136, 83) (14210, 83) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999983
+Random Forest: accuracy on test data 0.944968
+*************************************************************************************************************************
+ 'label:STROLLING'
+Features used: ['Magnet', 'Gyro', 'Acc']
+(377346, 83) (377346,)
+(363136, 83) (14210, 83) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999986
+Random Forest: accuracy on test data 0.944476
+*************************************************************************************************************************
+label:DRINKING__ALCOHOL_
+Features used: ['Magnet', 'Aud', 'AP', 'LF']
+(377346, 67) (377346,)
+(363136, 67) (14210, 67) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999915
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:BATHING_-_SHOWER
+Features used: ['Magnet', 'LF', 'Aud', 'AP']
+(377346, 67) (377346,)
+(363136, 67) (14210, 67) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999920
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:CLEANING
+Features used: ['Magnet', 'Acc', 'Gyro']
+(377346, 83) (377346,)
+(363136, 83) (14210, 83) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999986
+Random Forest: accuracy on test data 0.944828
+*************************************************************************************************************************
+label:DOING_LAUNDRY
+Features used: ['Magnet', 'Gyro', 'Acc']
+(377346, 83) (377346,)
+(363136, 83) (14210, 83) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999989
+Random Forest: accuracy on test data 0.944968
+*************************************************************************************************************************
+label:WASHING_DISHES
+Features used: ['Magnet', 'LF', 'Loc']
+(377346, 56) (377346,)
+(363136, 56) (14210, 56) (363136,) (14210,)
+Random Forest: accuracy on training data 0.997461
+Random Forest: accuracy on test data 0.945250
+*************************************************************************************************************************
+label:WATCHING_TV
+Features used: ['Magnet', 'Aud', 'AP', 'Acc']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:SURFING_THE_INTERNET
+Features used: ['Magnet', 'Acc', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999989
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:AT_A_PARTY
+Features used: ['Magnet', 'Acc', 'Gyro']
+(377346, 83) (377346,)
+(363136, 83) (14210, 83) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999992
+Random Forest: accuracy on test data 0.944687
+*************************************************************************************************************************
+label:AT_A_BAR
+Features used: ['Magnet', 'Gyro', 'Loc']
+(377346, 74) (377346,)
+(363136, 74) (14210, 74) (363136,) (14210,)
+Random Forest: accuracy on training data 0.993314
+Random Forest: accuracy on test data 0.934483
+*************************************************************************************************************************
+label:LOC_beach
+Features used: ['Magnet', 'LF', 'Aud', 'AP']
+(377346, 67) (377346,)
+(363136, 67) (14210, 67) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999917
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:SINGING
+Features used: ['Magnet', 'Loc', 'LF']
+(377346, 56) (377346,)
+(363136, 56) (14210, 56) (363136,) (14210,)
+Random Forest: accuracy on training data 0.997461
+Random Forest: accuracy on test data 0.944828
+*************************************************************************************************************************
+label:TALKING
+Features used: ['Magnet', 'Aud', 'AP', 'Acc']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999992
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:COMPUTER_WORK
+Features used: ['Magnet', 'Aud', 'AP', 'Loc']
+(377346, 76) (377346,)
+(363136, 76) (14210, 76) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999766
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:EATING
+Features used: ['Magnet', 'Aud', 'AP', 'Acc']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999989
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:TOILET
+Features used: ['Magnet', 'Acc', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999989
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:GROOMING
+Features used: ['Magnet', 'LF', 'Acc']
+(377346, 65) (377346,)
+(363136, 65) (14210, 65) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999997
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:DRESSING
+Features used: ['Magnet', 'LF', 'Loc']
+(377346, 56) (377346,)
+(363136, 56) (14210, 56) (363136,) (14210,)
+Random Forest: accuracy on training data 0.997585
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:AT_THE_GYM
+Features used: ['Magnet', 'Loc', 'Acc']
+(377346, 74) (377346,)
+(363136, 74) (14210, 74) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:STAIRS_-_GOING_UP
+Features used: ['Magnet', 'Aud', 'AP', 'LF']
+(377346, 67) (377346,)
+(363136, 67) (14210, 67) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999917
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:STAIRS_-_GOING_DOWN
+Features used: ['Magnet', 'LF', 'Aud', 'AP']
+(377346, 67) (377346,)
+(363136, 67) (14210, 67) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999917
+Random Forest: accuracy on test data 0.945250
+*************************************************************************************************************************
+label:ELEVATOR
+Features used: ['Magnet', 'Acc', 'PS']
+(377346, 91) (377346,)
+(363136, 91) (14210, 91) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:OR_standing
+Features used: ['Acc', 'WAcc', 'Magnet']
+(377346, 103) (377346,)
+(363136, 103) (14210, 103) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:AT_SCHOOL
+Features used: ['Magnet', 'Loc', 'Aud', 'AP']
+(377346, 76) (377346,)
+(363136, 76) (14210, 76) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999766
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:PHONE_IN_HAND
+Features used: ['Magnet', 'Aud', 'AP', 'Acc']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999992
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:PHONE_IN_BAG
+Features used: ['Magnet', 'Acc', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:PHONE_ON_TABLE
+Features used: ['Acc', 'Magnet', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999989
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:WITH_CO-WORKERS
+Features used: ['Magnet', 'Acc', 'LF']
+(377346, 65) (377346,)
+(363136, 65) (14210, 65) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
+label:WITH_FRIENDS
+Features used: ['Magnet', 'Acc', 'Aud', 'AP']
+(377346, 85) (377346,)
+(363136, 85) (14210, 85) (363136,) (14210,)
+Random Forest: accuracy on training data 0.999994
+Random Forest: accuracy on test data 0.945320
+*************************************************************************************************************************
